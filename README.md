@@ -9,4 +9,5 @@ This repository contains the source code used in the course called [HTML, CSS an
 * Week-5 - Coding
 
 # Solutions
-[Week-2](https://atas98.github.io/webdev-course/week%202/index.html)
+* [Week-2](https://atas98.github.io/webdev-course/week%202/index.html)
+* [Week-3](https://atas98.github.io/webdev-course/week%203/index.html)
