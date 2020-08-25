@@ -1,5 +1,5 @@
 # webdev-course
-This repository contains the source code used in the course called [HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) in Coursera.
+This repository contains the source code used in the Coursera course called [HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
 
 # Assignments :
 * Week-1 - Quiz
